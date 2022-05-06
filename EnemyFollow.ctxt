@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=EnemyFollow
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ EnemyFollow\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=x\ y\ radius\ c\ angle\ speed
+comment1.target=EnemyFollow(float,\ float,\ float,\ com.badlogic.gdx.graphics.Color,\ float,\ float)
+comment2.params=playerx\ playery
+comment2.target=void\ follow(float,\ float)
+numComments=3

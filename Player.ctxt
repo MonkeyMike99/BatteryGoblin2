@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Player
+comment1.params=theX\ theY\ radius\ c
+comment1.target=Player(float,\ float,\ float,\ com.badlogic.gdx.graphics.Color)
+comment2.params=theX\ theY
+comment2.target=void\ move(float,\ float)
+comment3.params=t
+comment3.target=void\ setHealth(float)
+comment4.params=
+comment4.target=float\ getHealth()
+comment5.params=rad
+comment5.target=void\ hit(int)
+numComments=6

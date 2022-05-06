@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Enemy
+comment1.params=x\ y\ radius\ c\ angle\ speed
+comment1.target=Enemy(float,\ float,\ float,\ com.badlogic.gdx.graphics.Color,\ float,\ float)
+comment2.params=angle
+comment2.target=void\ setAngle(float)
+comment3.params=
+comment3.target=float\ getAngle()
+comment4.params=
+comment4.target=void\ move()
+comment5.params=
+comment5.target=boolean\ inBounds()
+numComments=6
